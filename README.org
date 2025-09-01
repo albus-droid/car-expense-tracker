@@ -1,0 +1,8 @@
+#+title: Car Expense Tracker
+
+* Features I am planning to implement
+1. Local Only Storage with CRDT/OT merge - Secure
+2. Parse Receipts (Might need permissions), OCR Images, Fuel prices (API), VIN decode (API)
+3. Tax-ready exports
+4. Ultra-fast entry
+5. What-if forecasting
