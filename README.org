@@ -6,3 +6,21 @@
 3. Tax-ready exports
 4. Ultra-fast entry
 5. What-if forecasting
+
+* Why don't I make this into a personal expense tracker; That is a good idea no? That way I can demonstrate my technical skills and show case my sysystem design as well. I'm making this App for myself, considering my use case in mind.
+
+* Features I would love to have on this app.
+1. Adding spending - Easy add, one click is optimal
+2. Something without a frontend if it is possible.
+3. Able to work it from my phone
+4. Log amount of hours I work and an option to add tips too
+5. All this  data should be exportable based on monthly to a google sheets.
+6. Projected spending and the amount I will have at the end of the month.
+7. Fixed spending like Rent, Phone bill, Gym and Transit Pass.
+8. Estimated grocery spending suggestion so I wont go broke.
+9. Enjoyment fund if I meet a specific criteria - Varies depending on how much I'm able to save up
+10. AI powered recommendation for how much to save and what to do - More like an AI assisted financial advisor
+
+Tackling the first challenge would be to find a way to make the frontend work easier. I dont have a Mac so building a native application is going to be an impossible task. Going without a frontend works but I will quickly lose interest as it will be too much work to add a log. So maybe find a no code tool that can help me with that. Thats my next option. I looked at some options and they seem promising, except the fact that I will have to pay. I looked for oss projects for the same but Apple and OSS can't exist on the same sentence :( 
+
+Next what will I do.
